@@ -1,0 +1,12 @@
+
+:root {
+  --sans-serif-font: sans-serif;
+  --serif-font: serif;
+  --monospace-font: monospace, monospace;
+  --body-font: var(--sans-serif-font);
+}
+
+
+body {
+  font-family: var(--body-font);
+}

@@ -1,5 +1,5 @@
 
-- Cascadia Code
+- ui-monospace
 
 - TODO SFMono-Regular, Menlo, Menlo-Regular, Monaco (old),
 - "Segoe UI Mono"
@@ -8,8 +8,12 @@
 - "Andale Mono" ?
 
 - "Roboto Mono", "Droid Sans Mono"
-
+- Oxygen Mono, Ubuntu Monospace
+- Source Code Pro
+- Fira Mono
 
 - "Liberation Mono", "Courier New",
+
+- Cascadia Code (before segoe?)
 
 - monospace, monospace
